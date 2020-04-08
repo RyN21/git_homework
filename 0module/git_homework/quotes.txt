@@ -9,3 +9,6 @@
 
 'If the mind is willing, the flesh could go on and on without many things'
 - Sun Tzu
+
+"We are what we repeatedly do; excellence, then, is not an act but a habit."
+- Aristotle
